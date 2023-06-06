@@ -1,5 +1,9 @@
 # dz-listing
 
+[![Build status](https://ci.appveyor.com/api/projects/status/us9jm605ery5q65j?svg=true)](https://ci.appveyor.com/project/pvova21/dz-listing)
+
+## [GitHub Pages](https://pvova21.github.io/dz-listing/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
